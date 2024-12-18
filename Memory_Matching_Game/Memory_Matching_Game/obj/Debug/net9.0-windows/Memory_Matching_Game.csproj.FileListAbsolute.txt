@@ -1,0 +1,16 @@
+D:\ITI\Intro C#\Labs\WF\2048\Memory_Matching_Game\Memory_Matching_Game\bin\Debug\net9.0-windows\Memory_Matching_Game.exe
+D:\ITI\Intro C#\Labs\WF\2048\Memory_Matching_Game\Memory_Matching_Game\bin\Debug\net9.0-windows\Memory_Matching_Game.deps.json
+D:\ITI\Intro C#\Labs\WF\2048\Memory_Matching_Game\Memory_Matching_Game\bin\Debug\net9.0-windows\Memory_Matching_Game.runtimeconfig.json
+D:\ITI\Intro C#\Labs\WF\2048\Memory_Matching_Game\Memory_Matching_Game\bin\Debug\net9.0-windows\Memory_Matching_Game.dll
+D:\ITI\Intro C#\Labs\WF\2048\Memory_Matching_Game\Memory_Matching_Game\bin\Debug\net9.0-windows\Memory_Matching_Game.pdb
+D:\ITI\Intro C#\Labs\WF\2048\Memory_Matching_Game\Memory_Matching_Game\obj\Debug\net9.0-windows\Memory_Matching_Game.Form1.resources
+D:\ITI\Intro C#\Labs\WF\2048\Memory_Matching_Game\Memory_Matching_Game\obj\Debug\net9.0-windows\Memory_Matching_Game.csproj.GenerateResource.cache
+D:\ITI\Intro C#\Labs\WF\2048\Memory_Matching_Game\Memory_Matching_Game\obj\Debug\net9.0-windows\Memory_Matching_Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Intro C#\Labs\WF\2048\Memory_Matching_Game\Memory_Matching_Game\obj\Debug\net9.0-windows\Memory_Matching_Game.AssemblyInfoInputs.cache
+D:\ITI\Intro C#\Labs\WF\2048\Memory_Matching_Game\Memory_Matching_Game\obj\Debug\net9.0-windows\Memory_Matching_Game.AssemblyInfo.cs
+D:\ITI\Intro C#\Labs\WF\2048\Memory_Matching_Game\Memory_Matching_Game\obj\Debug\net9.0-windows\Memory_Matching_Game.csproj.CoreCompileInputs.cache
+D:\ITI\Intro C#\Labs\WF\2048\Memory_Matching_Game\Memory_Matching_Game\obj\Debug\net9.0-windows\Memory_Matching_Game.dll
+D:\ITI\Intro C#\Labs\WF\2048\Memory_Matching_Game\Memory_Matching_Game\obj\Debug\net9.0-windows\refint\Memory_Matching_Game.dll
+D:\ITI\Intro C#\Labs\WF\2048\Memory_Matching_Game\Memory_Matching_Game\obj\Debug\net9.0-windows\Memory_Matching_Game.pdb
+D:\ITI\Intro C#\Labs\WF\2048\Memory_Matching_Game\Memory_Matching_Game\obj\Debug\net9.0-windows\Memory_Matching_Game.genruntimeconfig.cache
+D:\ITI\Intro C#\Labs\WF\2048\Memory_Matching_Game\Memory_Matching_Game\obj\Debug\net9.0-windows\ref\Memory_Matching_Game.dll
