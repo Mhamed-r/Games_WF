@@ -1,0 +1,17 @@
+D:\ITI\Intro C#\Labs\WF\2048\Pong_Game\Pong_Game\bin\Debug\net9.0-windows\Pong_Game.exe
+D:\ITI\Intro C#\Labs\WF\2048\Pong_Game\Pong_Game\bin\Debug\net9.0-windows\Pong_Game.deps.json
+D:\ITI\Intro C#\Labs\WF\2048\Pong_Game\Pong_Game\bin\Debug\net9.0-windows\Pong_Game.runtimeconfig.json
+D:\ITI\Intro C#\Labs\WF\2048\Pong_Game\Pong_Game\bin\Debug\net9.0-windows\Pong_Game.dll
+D:\ITI\Intro C#\Labs\WF\2048\Pong_Game\Pong_Game\bin\Debug\net9.0-windows\Pong_Game.pdb
+D:\ITI\Intro C#\Labs\WF\2048\Pong_Game\Pong_Game\obj\Debug\net9.0-windows\Pong_Game.Player0.resources
+D:\ITI\Intro C#\Labs\WF\2048\Pong_Game\Pong_Game\obj\Debug\net9.0-windows\Pong_Game.Properties.Resources.resources
+D:\ITI\Intro C#\Labs\WF\2048\Pong_Game\Pong_Game\obj\Debug\net9.0-windows\Pong_Game.csproj.GenerateResource.cache
+D:\ITI\Intro C#\Labs\WF\2048\Pong_Game\Pong_Game\obj\Debug\net9.0-windows\Pong_Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Intro C#\Labs\WF\2048\Pong_Game\Pong_Game\obj\Debug\net9.0-windows\Pong_Game.AssemblyInfoInputs.cache
+D:\ITI\Intro C#\Labs\WF\2048\Pong_Game\Pong_Game\obj\Debug\net9.0-windows\Pong_Game.AssemblyInfo.cs
+D:\ITI\Intro C#\Labs\WF\2048\Pong_Game\Pong_Game\obj\Debug\net9.0-windows\Pong_Game.csproj.CoreCompileInputs.cache
+D:\ITI\Intro C#\Labs\WF\2048\Pong_Game\Pong_Game\obj\Debug\net9.0-windows\Pong_Game.dll
+D:\ITI\Intro C#\Labs\WF\2048\Pong_Game\Pong_Game\obj\Debug\net9.0-windows\refint\Pong_Game.dll
+D:\ITI\Intro C#\Labs\WF\2048\Pong_Game\Pong_Game\obj\Debug\net9.0-windows\Pong_Game.pdb
+D:\ITI\Intro C#\Labs\WF\2048\Pong_Game\Pong_Game\obj\Debug\net9.0-windows\Pong_Game.genruntimeconfig.cache
+D:\ITI\Intro C#\Labs\WF\2048\Pong_Game\Pong_Game\obj\Debug\net9.0-windows\ref\Pong_Game.dll
